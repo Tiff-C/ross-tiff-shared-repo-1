@@ -1,9 +1,11 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: white;
+    background-color: #8d9ee3;
     color: black;
+    font-size: 16px;
 }
 
-.brand {
+.navbar-brand {
     font-family: 'Pattaya', sans-serif;
+    font-size: 2em;
 }
