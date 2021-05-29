@@ -17,6 +17,11 @@ footer {
     height: auto;
 }
 
+a {
+    text-decoration: none;
+    color: #9893ed;
+}
+
 .navbar-brand {
     font-family: 'Pattaya', sans-serif;
     font-size: 2em;
@@ -24,10 +29,15 @@ footer {
 
 .social-container {
     text-align: center;
-    padding: 0.75em 0;
+    padding: 0.75em 0 0 0;
 }
 
 .social-icons {
     padding: 0 1em;
-    color: #9893ed;
+}
+
+.legal-bits {
+    text-align: center;
+    font-size: 0.5em;
+    padding-top: 0.75em;
 }
